@@ -1,0 +1,571 @@
+[
+  {
+    "id": 1,
+    "name": "이스케이프 플랜",
+    "image": "movie1.webp",
+    "english_name":"Escape Plan",
+    "genre": "액션",
+    "release": "2022-08-22",
+    "age":"15",
+    "time":"160",
+    "rate":"80",
+    "country":"미국",
+    "story":"직접 감옥에 들어가 약점을 찾아내 탈출한 뒤, 탈출 불가능한 감옥으로 설계하는 최고의 탈출 전문가 ‘브레슬린’은 CIA로부터 비밀 사설 감옥의 테스트를 맡게 된다. 임무 수행 첫날 괴한의 공격을 당한 후 눈을 뜬 곳은 마스크로 얼굴을 가린 채 중무장한 교도관, 24시간 감시되는 유리로만 만들어진 수감방, 하늘도 땅도 외부의 모든 것이 차단된 첨단 감옥! 바로 자신이 설계한 완벽한 감옥에 갇힌 ‘브레슬린’은 곧 함정에 빠졌음을 알게 되고, 자신에게 접근해오는 ‘로트마이어’를 만나게 되는데... 탈출 확률 제로! 최강의 감옥 ‘툼’을 탈출하기 위한 불가능한 플랜이 시작된다!",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/YyL75IBXocE?si=pilXqvjVlTSzUs06"
+  },
+  {
+    "id": 2,
+    "name": "안녕, 와이파이",
+    "image": "movie2.webp",
+    "english_name":"Bye, Wifi",
+    "genre": "드라마",
+    "release": "2023-05-20",
+    "age":"ALL",
+    "time":"90",
+    "rate":"60",
+    "country":"미국",
+    "story":"여느 대학생처럼 SNS가 생활인 노르마. 어느 날, 코피를 쏟고 쓰러졌는데 '와이파이 알레르기'란다. 전자파를 피해 인터넷 없는 시골 할머니 댁에서 지내기로 했지만 난감할 따름. 와이파이 없이 어떻게 살죠? 남자친구랑 연락은요?",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":""
+  },
+  {
+    "id": 3,
+    "name": "TAR 타르",
+    "image": "movie3.webp",
+    "english_name":"Tar",
+    "genre": "드라마",
+    "release": "2019-04-18",
+    "age":"15",
+    "time":"140",
+    "rate":"40",
+    "country":"미국",
+    "story":"무대를 장악하는 마에스트로, 욕망을 불태우는 괴물, 베를린 필하모닉 최초의 여성 지휘자 리디아 타르. 이 이야기는 그녀의 정점에서 시작된다.",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/uiYANU6TVDA?si=4XMsJwdnlIaupQNI"
+  },
+  {
+    "id": 4,
+    "name": "쏘우",
+    "image": "movie4.webp",
+    "english_name":"Saw",
+    "genre": "공포",
+    "release": "2014-05-22",
+    "age":"19",
+    "time":"160",
+    "rate":"89",
+    "country":"미국",
+    "story":"어느 캄캄한 지하실. 자신들의 발목에 쇠줄이 묶인 채 마주하게 된 ‘아담’(리 웨넬)과 닥터 ‘고든’(캐리 엘위즈). 둘은 자신들이 왜 잡혀왔는지, 서로가 누군지조차 모르고 있다. 어떻게든 빠져나가려고 갖은 애를 써보지만 소용이 없다. 주머니 속에는 8시간 내에 고든이 아담을 죽이지 않으면 둘은 물론 고든의 부인과 딸까지 죽이겠다는 범인의 음성이 담긴 테이프가 들어 있을 뿐. 한편, 연쇄살인을 추적하던 ‘탭’형사(대니 글로버)는 닥터 ‘고든’을 범인으로 지목하고 그 뒤를 쫓는다. 범인의 윤곽은 좀처럼 드러나지 않고, 예정된 시간은 점점 가까워져 오는데..",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/S-1QgOMQ-ls?si=e4Ur8zlo2Rdv3o_d"
+  },
+  {
+    "id": 5,
+    "name": "드라이브",
+    "image": "movie5.webp",
+    "english_name":"Drive",
+    "genre": "액션",
+    "release": "2013-05-22",
+    "age":"15",
+    "time":"160",
+    "rate":"90",
+    "country":"미국",
+    "story":"삶의 의미라곤 오직 스피드밖에 없었던 한 남자, 그의 일상에 작은 파장을 일으킨 한 여자. 어느덧 또 하나의 의미가 된 그녀가 위험해지고 그녀를 지키기 위해 그는 모든 것을 거는데… 오직 그녀를 향한 브레이크 없는 질주가 시작된다!",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/KBiOF3y1W0Y?si=qvefdOTPrT-XceR6"
+  },
+  {
+    "id": 6,
+    "name": "올드보이",
+    "image": "movie6.webp",
+    "english_name":"Old Boy",
+    "genre": "액션",
+    "release": "2013-08-22",
+    "age":"19",
+    "time":"190",
+    "rate":"88",
+    "country":"대한민국",
+    "story":"술 좋아하고 떠들기 좋아하는 오.대.수. 본인의 이름풀이를 '오늘만 대충 수습하며 살자'라고 이죽거리는 이 남자는 아내와 어린 딸아이를 가진 지극히 평범한 샐러리맨이다. 어느 날, 술이 거나하게 취해 집에 돌아가는 길에 존재를 알 수 없는 누군가에게 납치, 사설 감금방에 갇히게 되는데. 언뜻 보면 싸구려 호텔방을 연상케 하는 감금방. 중국집 군만두만을 먹으며 8평이라는 제한된 공간에서 그가 할 수 있는 일이라곤, 텔레비전 보는 게 전부",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/2HkjrJ6IK5E?si=Ecdlt9D31lSFbDt5"
+  },
+  {
+    "id": 7,
+    "name": "트위스터스",
+    "image": "movie7.webp",
+    "english_name":"Twisters",
+    "genre": "액션",
+    "release": "2024-08-20",
+    "age":"15",
+    "time":"160",
+    "rate":"76",
+    "country":"미국",
+    "story":"뉴욕 기상청 직원 ‘케이트’(데이지 에드가-존스)는 대학 시절 토네이도에 맞서다 소중한 사람들을 잃고 죄책감에 살고 있다. 그런 그녀 앞에 옛 친구 ‘하비’(안소니 라모스)가 찾아와 토네이도를 소멸시킬 수 있는 획기적인 방법을 제안한다. 고민 끝에 합류하게 된 ‘케이트’는 ‘하비’와 오클라호마로 향하고, 일명 토네이도 카우보이라 불리는 유명 인플루언서 ‘타일러’(글렌 파월)를 만난다. 마치 자연을 정복한 듯이 자신감 넘치는 ‘타일러'와 매사 부딪히게 되는 ‘케이트’. 어느 날, 모든 것을 집어삼킬 거대한 토네이도가 휘몰아칠 것을 감지하게 되는데… 쫓아라! 막아라! 살아남아라! 역대급 토네이도에 정면돌파 선언!",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/Hx7evMlyejs?si=Pvcy5cdIqq7HMKGc"
+  },
+  {
+    "id": 8,
+    "name": "에이리언",
+    "image": "movie8.webp",
+    "english_name":"Alien",
+    "genre": "공포",
+    "release": "2001-05-22",
+    "age":"19",
+    "time":"160",
+    "rate":"90",
+    "country":"미국",
+    "story":"혹성 LA-426 옆을 지날 때, 지적 생명체의 것으로 보이는 발신파를 포착한다. 이에 그녀는 승무원을 깨우고 혹성 탐사를 위해 3명의 승무원을 급파한다. 이 이상한 발신원은 거대하고 정체 불명의 우주선이었으나 우주선은 이미 오래전에 파괴되어 썩고 있었으며 탑승 승무원들은 모두 미이라로 변해 있었다. 사고 원인을 찾기위해 좀 더 안으로 들어간 조사반은 여기저기에서 계란 모양의 물체이 있는 산란실을 발견하고 궁금증을 갖는다. 그 중 캐인이 공격을 받고 실신한다. 이 궁금증을 풀기 위하여 실험을 하던 케인은 물체에 충격을 가하고 그 순간 물체로부터 작은 생물이 튀어나와 마스크를 녹이고 케인의 얼굴에 철썩 달라 붙는다. 이들은 이 외계생물이 인간세포로부터 양분을 빨아고 기생하는 존재임을 알게 되는데...",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/LjLamj-b0I8?si=Kq5gx9BZ3KE9fItD"
+  },
+  {
+    "id": 9,
+    "name": "에이리언 로물루스",
+    "image": "movie9.webp",
+    "english_name":"Alien",
+    "genre": "공포",
+    "release": "2024-08-10",
+    "age":"15",
+    "time":"160",
+    "rate":"79",
+    "country":"미국",
+    "story":"영화 역사상 가장 위대한 시리즈 <에이리언> 리들리 스콧 제작 · <맨 인 더 다크> 페데 알바레즈 감독의 숨 막히는 서바이벌 스릴러로 돌아오다! 2142년, 부모 세대가 맞닥뜨렸던 암울한 미래를 피하려는 청년들이 더 나은 삶을 찾기 위해 식민지를 떠날 계획을 세운다. 하지만 버려진 우주 기지 ‘로물루스’에 도착한 이들은 악몽과도 같은 에이리언의 무자비한 공격에 쫓기기 시작한다. 그 누구도 그들의 절규를 들을 수 없는 우주 한가운데, 생존을 위한 치열한 사투를 벌여야 하는데... 폐쇄된 공간에서 펼쳐지는 압도적인 공포를 느껴라!",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/OzY2r2JXsDM?si=8pVOrJlha66q4VX8"
+  },
+  {
+    "id": 10,
+    "name": "러브 라이즈 블리딩",
+    "image": "movie10.webp",
+    "english_name":"Love Rise Bleeding",
+    "genre": "드라마",
+    "release": "2023-08-22",
+    "age":"15",
+    "time":"160",
+    "rate":"80",
+    "country":"미국 영국",
+    "story":"“멍청아, XX 사랑한다구!!” 1989년, 체육관 매니저로 일상을 보내던 무기력한 ‘루’ 앞에 보디빌딩 대회 우승을 꿈꾸는 자유로운 영혼 ‘잭키’가 나타나고 둘은 0.001초 만에 사랑에 빠진다. 사랑하는 ‘루’를 위해 상상초월 살인을 저지른 ‘잭키’! 폭력을 일삼는 가족으로부터 연인을 지키려는 ‘루’! ‘루’와 ‘잭키’의 숨 막히는 쇠맛 범죄 로맨스가 시작된다!",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/BF_J3-DmiS0?si=sACTjxDmemcah4k1"
+  },
+  {
+    "id": 11,
+    "name": "인사이드 아웃2",
+    "image": "movie11.webp",
+    "english_name":"inside Out2",
+    "genre": "애니메이션",
+    "release": "2022-08-22",
+    "age":"15",
+    "time":"160",
+    "rate":"80",
+    "country":"미국",
+    "story":"디즈니·픽사의 대표작 <인사이드 아웃> 새로운 감정과 함께 돌아오다! 13살이 된 라일리의 행복을 위해 매일 바쁘게 머릿속 감정 컨트롤 본부를 운영하는 ‘기쁨’, ‘슬픔’, ‘버럭’, ‘까칠’, ‘소심’. 그러던 어느 날, 낯선 감정인 ‘불안’, ‘당황’, ‘따분’, ‘부럽’이가 본부에 등장하고, 언제나 최악의 상황을 대비하며 제멋대로인 ‘불안’이와 기존 감정들은 계속 충돌한다. 결국 새로운 감정들에 의해 본부에서 쫓겨나게 된 기존 감정들은 다시 본부로 돌아가기 위해 위험천만한 모험을 시작하는데… 2024년, 전 세계를 공감으로 물들인 유쾌한 상상이 다시 시작된다!",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/LEjhY15eCx0?si=1zHNWWF1veyJHWE9"
+  },
+  {
+    "id": 12,
+    "name": "가필드 더 무비",
+    "image": "movie12.webp",
+    "english_name":"The Garfield Movie",
+    "genre": "애니메이션",
+    "release": "2024-05-15",
+    "age":"ALL",
+    "time":"100",
+    "rate":"74",
+    "country":"미국",
+    "story":"세상귀찮 집냥이, 바쁘고 험난한 세상에 던져졌다! 집사 ‘존’과 반려견 ‘오디’를 기르며 평화로운 나날을 보내던 집냥이 ‘가필드’. 어느 날, 험악한 길냥이 무리에게 납치당해 냉혹한 거리로 던져진다. 돌봐주는 집사가 없는 집 밖 세상은 너무나도 정신없게 돌아가고 길에서 우연히 다시 만난 아빠 길냥이 ‘빅’은 오히려 ‘가필드’를 위기에 빠지게 하는데… 험난한 세상, 살아남아야 한다!",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/S3XjsSvwSuU?si=qoILkVImIt0-1Uf-"
+  },
+  {
+    "id": 13,
+    "name": "테넷",
+    "image": "movie13.webp",
+    "english_name":"Tenet",
+    "genre": "액션",
+    "release": "2020-08-26",
+    "age":"15",
+    "time":"150",
+    "rate":"87",
+    "country":"미국",
+    "story":"시간의 흐름을 뒤집는 인버전을 통해 현재와 미래를 오가며 세상을 파괴하려는 사토르(케네스 브래너)를 막기 위해 투입된 작전의 주도자(존 데이비드 워싱턴). 인버전에 대한 정보를 가진 닐(로버트 패틴슨)과 미술품 감정사이자 사토르에 대한 복수심이 가득한 그의 아내 캣(엘리자베스 데비키)과 협력해 미래의 공격에 맞서 제3차 세계대전을 막아야 한다!",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/LdOM0x0XDMo?si=_7phMzZ3o0eFUitj"
+  },
+  {
+    "id": 14,
+    "name": "플래시",
+    "image": "movie14.webp",
+    "english_name":"The Flash",
+    "genre": "액션",
+    "release": "2023-06-14",
+    "age":"15",
+    "time":"144",
+    "rate":"80",
+    "country":"미국",
+    "story":"시공간이 붕괴된 세계, 차원이 다른 히어로가 온다! 빛보다 빠른 스피드, 물체 투과, 전기 방출, 자체 회복, 천재적인 두뇌까지 갓벽한 능력을 자랑하지만 존재감은 제로, 저스티스 리그에서 궂은일을 도맡아 하는 히어로 ‘플래시’. 어느 날 자신에게 빛보다 빠른 속도로 달리면 시공간 이동 능력이 있음을 알게 된 그는 ‘브루스 웨인’의 만류를 무시한 채 끔찍한 상처로 얼룩진 과거를 바꾸기 위해 시간을 역행한다. 의도치 않은 장소에 불시착한 ‘플래시’는 멀티버스 세상 속 또 다른 자신과 맞닥뜨리고 메타 휴먼이 흔적도 없이 사라지고 모든 것이 뒤엉킨 세상과 마주하게 된다. ‘플래시’는 자신이 알던 모습과 전혀 달라진 나이 들고 은퇴한 ‘배트맨’과 크립톤 행성에서 온 ‘슈퍼걸’의 도움으로 외계의 침공으로부터 시간과 차원이 붕괴된 지구를 구하려 나서는데…",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/hebWYacbdvc?si=Iy8a5UlinodXO2-f"
+  },
+  {
+    "id": 15,
+    "name": "더 비스트",
+    "image": "movie15.webp",
+    "english_name":"The Beast",
+    "genre": "드라마",
+    "release": "2024-05-15",
+    "age":"15",
+    "time":"100",
+    "rate":"74",
+    "country":"프랑스",
+    "story":"세 시대에 걸쳐 환생하는 한 여자와 남자, 그리고 매번 두려움 때문에 실패하는 이들의 관계를 카메라에 담았다. 감독은 20세기 초에 대량 생산된 셀룰로이드 인형, 긴장된 톱 모델의 아름다움, 인위적인 행복을 추구하는 공허한 눈빛을 한 미래의 사람들 간의 연결고리를 만든다. 레아 세두는 1910년대 프랑스 부르주아 여인, 2014년 로스앤젤레스에서 활약하는 모델, 2044년 더 이상 감정이 존재하지 않는 세상의 인물을 연기하며 현시대 가장 뛰어난 배우 중 한 명이라는 것을 입증한다.",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/53ZebMn7QgA?si=1jPGkOMTS8QbJdwt"
+  },
+  {
+    "id": 16,
+    "name": "아내의 저주",
+    "image": "movie16.webp",
+    "english_name":"Curse",
+    "genre": "드라마 스릴러",
+    "release": "2018-06-17",
+    "age":"15",
+    "time":"71",
+    "rate":"20",
+    "country":"아시아",
+    "story":"다그니치는 새해 파티를 위해 삼촌의 별장을 빌리려고 하지만 거절당하고, 이에 몰래 키를 가지고 나와 별장에서 새해 파티를 하게 된다. 파티를 하는 중, 집안에서 이상한 일들이 벌어지기 시작한다.",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":""
+  },
+  {
+    "id": 17,
+    "name": "인형의 저주",
+    "image": "movie17.webp",
+    "english_name":"Curse",
+    "genre": "공포",
+    "release": "2024-05-15",
+    "age":"19",
+    "time":"100",
+    "rate":"74",
+    "country":"아시아",
+    "story":"당신의 소원을 이루어드립니다. 사라는 노숙자에게 징그러운 인형을 구입하게 되었다. 그녀는 우연찮은 사건으로 이 인형이 소원을 들어주는 것을 알게 된다. 소원에 따른 댓가는 모르는채 사라는 인형에게 제물을 바치며 소원을 빌기 시작한다…",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":""
+  },
+  {
+    "id": 18,
+    "name": "쏘우2",
+    "image": "movie18.webp",
+    "english_name":"The Garfield Movie",
+    "genre": "액션",
+    "release": "2006-02-16",
+    "age":"19",
+    "time":"92",
+    "rate":"82",
+    "country":"미국",
+    "story":"심판이라는 이름으로 희생자를 속출시킨 희대의 지능적 살인마 직쏘! 잡힐 것 같지 않던 직쏘를 예상외로 쉽게 체포하는데 성공한 형사 에릭은 사건을 종결시키려 하지만.. 그것은 끝이 아니였다. 직쏘는 평소 에릭과 사이가 좋지 않았던 에릭의 아들을 포함한 8명의 또 다른 희생자를 자신만이 아는 장소에 가두고 새로운 게임을 제안한 것! 3시간 후에야 열리는 폐쇄 공간,, 하지만 이미 퍼져 나오는 독가스는 2시간 안에 모두를 죽일 것이다. 숨겨진 해독제, 공통점으로 묶인 8명의 사람들, 규칙을 기억한다면 살아 남을 수 있을 것이라는 직쏘의 녹음기 음성. 절체절명의 게임을 제안 받은 8명은 죽음의 위협 앞에서 각기 다른 방법을 찾기 시작하고 이들을 모니터로 지켜 보던 에릭은 미칠 것 같은 불안에 사로잡힌다. 그러나 직쏘는 그저 규칙을 기억하라는 얘기만 되풀이 하는데...",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/Lq2AzZB6DUE?si=nGY07MltUsGN5LWv"
+  },
+  {
+    "id": 19,
+    "name": "슈퍼배드4",
+    "image": "movie19.webp",
+    "english_name":"Despicable Me 4",
+    "genre": "애니메이션",
+    "release": "2024-07-24",
+    "age":"ALL",
+    "time":"94",
+    "rate":"74",
+    "country":"미국",
+    "story":"미니언-파서블 올여름은 우리가 씹어 먹는다! 악당 짓 NO, 악당 처리 YES! 이제는 차카게 산다! 슈트-업 하고 악당 전담 처리반 AVL이 된 ‘에이전트 미니언즈’와 미니언즈 만큼 귀여운 ‘그루 주니어’가 태어나면서 더욱 완벽해진 ‘그루 패밀리’. 이들 앞에 과거 그루의 고등학교 동창이자 그에게 체포당했던 빌런 ‘맥심’이 등장하고, 오직 그루를 향한 복수심에 불타올라 탈옥까지 감행한 맥심은 그루 패밀리의 뒤를 바짝 추격하며 위협을 가하기 시작하는데... 과연 에이전트 미니언즈와 그루 패밀리는 맥심을 막아낼 수 있을까?",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/g1NL-Px92k4?si=feAl_g4qRU6n9KsF"
+  },
+  {
+    "id": 20,
+    "name": "맨인 더 다크",
+    "image": "movie20.webp",
+    "english_name":"Don't Breathe",
+    "genre": "공포",
+    "release": "2016-05-15",
+    "age":"19",
+    "time":"88",
+    "rate":"74",
+    "country":"미국",
+    "story":"10대 빈집털이범 록키, 알렉스, 머니는 밑바닥 삶을 청산하기 위해 눈 먼 노인을 겨냥한 마지막 한 탕을 준비한다. 노인이 잠 든 사이 거액의 현금을 쟁취하려던 순간 마침내 그가 깨어나게 되고, 이들의 치밀한 계획은 아무것도 보이지 않는 암전 속에서 모두 역전되기 시작하는데…",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/76yBTNDB6vU?si=QUrqg8zUrpWizPW-"
+  },
+  {
+    "id": 21,
+    "name": "기생충",
+    "image": "movie21.webp",
+    "english_name":"Parasite",
+    "genre": "드라마",
+    "release": "2019-05-15",
+    "age":"15",
+    "time":"100",
+    "rate":"90",
+    "country":"대한민국",
+    "story":"전원백수로 살 길 막막하지만 사이는 좋은 기택(송강호) 가족. 장남 기우(최우식)에게 명문대생 친구가 연결시켜 준 고액 과외 자리는 모처럼 싹튼 고정수입의 희망이다. 온 가족의 도움과 기대 속에 박사장(이선균) 집으로 향하는 기우. 글로벌 IT기업 CEO인 박사장의 저택에 도착하자 젊고 아름다운 사모님 연교(조여정)가 기우를 맞이한다. 그러나 이렇게 시작된 두 가족의 만남 뒤로, 걷잡을 수 없는 사건이 기다리고 있었으니…",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/SEUXfv87Wpk?si=9CfSvnE7kyml4Sxf"
+  },
+  {
+    "id": 22,
+    "name": "로우리스",
+    "image": "movie22.webp",
+    "english_name":"Lawless",
+    "genre": "범죄",
+    "release": "2024-05-15",
+    "age":"15",
+    "time":"100",
+    "rate":"74",
+    "country":"미국",
+    "story":"범접할 수 없는 카리스마를 가진 ‘포레스트(톰 하디)’를 중심으로 프랭클린 카운티의 전설로 불리는 본두란가 삼형제. 하지만 새로 부임한 특별수사관 ‘찰리(가이 피어스)’가 거액의 상납금을 요구하며 형제들의 가업인 밀주 사업을 위협한다. 법을 빌미로 악랄하게 숨통을 조여오던 찰리의 최후통첩에 형제들은 굴복하느냐 맞서느냐의 기로에 서게 된다. 한편, 형들은 물론 연인 ‘베르사(미아 와시코브스카)’에게도 강한 남자로서 인정 받고 싶었던 막내 ‘잭(샤이아 라보프)’은 위기를 기회 삼아 전설의 갱스터 ‘플로이드 배너(게리 올드만)’와 손을 잡는데… 악랄한 보안관에 맞서 전설의 갱스터와 결탁한 형제들. 피도 눈물도 없는 무자비한 전쟁이 시작된다!",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/HibcC7w5l1g?si=CPaQk6GyZYiZIJaZ"
+  },
+  {
+    "id": 23,
+    "name": "위고온",
+    "image": "movie23.webp",
+    "english_name":"We go on",
+    "genre": "공포",
+    "release": "2024-05-15",
+    "age":"15",
+    "time":"100",
+    "rate":"80",
+    "story":"사후 세계가 궁금한 한 남자의 모험을 그린 공포 영화",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/AQ7HLYfHzpw?si=SnEEThBYDk1Tudcu"
+  },
+  {
+    "id": 24,
+    "name": "올리비아 로드리고: 네가 있는 집으로",
+    "image": "movie24.webp",
+    "english_name":"Olivia",
+    "genre": "다큐멘터리",
+    "release": "2024-05-15",
+    "age":"ALL",
+    "time":"76",
+    "rate":"74",
+    "country":"미국",
+    "story":"싱어송라이터 올리비아 로드리고가 특별한 로드트립을 떠난다!",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/-VVHUq4tOzg?si=wEq7PqtoNwuPH8Al"
+  },
+  {
+    "id": 25,
+    "name": "파묘",
+    "image": "movie25.webp",
+    "english_name":"Exhuma",
+    "genre": "미스터리",
+    "release": "2024-05-15",
+    "age":"15",
+    "time":"100",
+    "rate":"74",
+    "country":"대한민국",
+    "story":"미국 LA, 거액의 의뢰를 받은 무당 ‘화림’(김고은)과 ‘봉길’(이도현)은 기이한 병이 대물림되는 집안의 장손을 만난다. 조상의 묫자리가 화근임을 알아챈 ‘화림’은 이장을 권하고, 돈 냄새를 맡은 최고의 풍수사 ‘상덕’(최민식)과 장의사 ‘영근’(유해진)이 합류한다. “전부 잘 알 거야… 묘 하나 잘못 건들면 어떻게 되는지” 절대 사람이 묻힐 수 없는 악지에 자리한 기이한 묘. ‘상덕’은 불길한 기운을 느끼고 제안을 거절하지만, ‘화림’의 설득으로 결국 파묘가 시작되고… 나와서는 안될 것이 나왔다.",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/niuMTbiLhcQ?si=bVJbV8yrj-P6piN8"
+  },
+  {
+    "id": 26,
+    "name": "바빌론",
+    "image": "movie26.webp",
+    "english_name":"Babylon",
+    "genre": "드라마",
+    "release": "2023-05-15",
+    "age":"15",
+    "time":"189",
+    "rate":"84",
+    "country":"미국",
+    "story":"황홀하면서도 위태로운 고대 도시, '바빌론'에 비유되던 할리우드. '꿈' 하나만을 위해 모인 사람들이 이를 쟁취하기 위해 벌이는 강렬하면서도 매혹적인 이야기",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/5muQK7CuFtY?si=12dgaD7hEnbTq0lI"
+  },
+  {
+    "id": 27,
+    "name": "위대한 쇼맨",
+    "image": "movie27.webp",
+    "english_name":"The Greatest Showman",
+    "genre": "드라마",
+    "release": "2017-05-15",
+    "age":"15",
+    "time":"100",
+    "rate":"92",
+    "country":"미국",
+    "story":"쇼 비즈니스의 창시자이자, 꿈의 무대로 전세계를 매료시킨 남자 ‘바넘’의 이야기에서 영감을 받아 탄생한 오리지널 뮤지컬 영화 <위대한 쇼맨>. <레미제라블> 이후 다시 뮤지컬 영화로 돌아온 휴 잭맨부터 잭 에프론, 미셸 윌리엄스, 레베카 퍼거슨, 젠다야까지 할리우드 최고의 배우들이 합류해 환상적인 앙상블을 선보인다. 여기에 <미녀와 야수> 제작진과 <라라랜드> 작사팀의 합류로 더욱 풍성해진 비주얼과 스토리, 음악까지 선보일 <위대한 쇼맨>은 ‘우리는 누구나 특별하다’는 메시지로 관객들에게 재미는 물론, 감동까지 선사할 것이다. THIS IS ME! 우리는 누구나 특별하다!",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/EodWwczRIe4?si=6R5FRuibgnLmmM--"
+  },
+  {
+    "id": 28,
+    "name": "오펜하이머",
+    "image": "movie28.webp",
+    "english_name":"Oppenheimer",
+    "genre": "스릴러",
+    "release": "2023-08-15",
+    "age":"19",
+    "time":"180",
+    "rate":"85",
+    "country":"미국 영국",
+    "story":"“나는 이제 죽음이요, 세상의 파괴자가 되었다.” 세상을 구하기 위해 세상을 파괴할 지도 모르는 선택을 해야 하는 천재 과학자의 핵개발 프로젝트.",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/uYPbbksJxIg?si=Am_WUeSJwYZDWYal"
+  },
+  {
+    "id": 29,
+    "name": "인터스텔라",
+    "image": "movie29.webp",
+    "english_name":"Interstellar",
+    "genre": "SF",
+    "release": "2014-11-06",
+    "age":"15",
+    "time":"169",
+    "rate":"92",
+    "country":"미국 영국",
+    "story":"세계 각국의 정부와 경제가 완전히 붕괴된 미래가 다가온다. 지난 20세기에 범한 잘못이 전 세계적인 식량 부족을 불러왔고, NASA도 해체되었다. 이때 시공간에 불가사의한 틈이 열리고, 남은 자들에게는 이 곳을 탐험해 인류를 구해야 하는 임무가 지워진다. 사랑하는 가족들을 뒤로 한 채 인류라는 더 큰 가족을 위해, 그들은 이제 희망을 찾아 우주로 간다. 그리고 우린 답을 찾을 것이다. 늘 그랬듯이…",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/zSWdZVtXT7E?si=_Sjwx9VDmsZQaikP"
+  },
+  {
+    "id": 30,
+    "name": "콰이어트 플레이스",
+    "image": "movie30.webp",
+    "english_name":"A Quiet Place",
+    "genre": "서스펜스",
+    "release": "2018-04-12",
+    "age":"15",
+    "time":"100",
+    "rate":"82",
+    "country":"미국",
+    "story":"소리를 내는 순간 공격받는 극한의 상황 속에서 살아남기 위한 한 가족의 숨막히는 사투를 그린 이야기 < 생존 법칙> 1. 어떤 소리도 내지 말 것 2. 아무 말도 하지 말 것 3. 붉은 등이 켜지면 무조건 도망갈 것",
+    "actors": [
+      {"name": "데이빗 다스트말치안", "image": "actor1.webp"},
+      {"name": "이안 블리스", "image": "actor2.webp"}
+    ],
+    "director":"미카엘 하프스트롬",
+    "trailer":"https://www.youtube.com/embed/WR7cc5t7tv8?si=QFmiH3jh3sIZABYZ"
+  }
+]
