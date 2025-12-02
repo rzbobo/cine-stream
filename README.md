@@ -1,19 +1,4 @@
-# frontend
 
-## Project setup
-```
-npm install
-```
+[Cine_Stream-ppt](Cine_Stream-%EB%B0%9C%ED%91%9C.pptx)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[졸업작품 브로셔.hwp](2024%ED%95%99%EB%85%84%EB%8F%84%20%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88%EC%A7%91%20%EB%B8%8C%EB%A1%9C%EC%85%94_%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%B5%ED%95%99%EA%B3%BC_YB_KPP_00%20%281%29.hwp)[프로젝트 기획서(HWP)](./파일이름.hwp)
